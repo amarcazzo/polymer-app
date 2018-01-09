@@ -1,0 +1,7 @@
+{
+  "name": "whose-flag-app",
+  "short_name": "whose-flag-app",
+  "description": "Match flags to their countries!",
+  "start_url": "/",
+  "display": "standalone"
+}
